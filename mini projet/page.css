@@ -1,0 +1,138 @@
+.body1{
+    background-image: url(bg-7.jpg);
+    background-size: cover;
+  background-attachment: fixed;
+    
+}
+.body2{
+    background-image: url(13.jpg);
+    background-size: cover;
+  background-attachment: fixed;
+  color: aliceblue;
+    
+}
+
+
+.form1{
+    position: relative;
+    margin-left: 40%;
+    margin-top: 20%;
+    
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.418);
+    width: 20%;
+    height: 250px;
+    border-radius: 10% 10%;
+}
+.form3{
+    position: relative;
+    margin-left: 18%;
+    border-radius: 20% 20%;
+  
+}
+.formu{
+ 
+   position: relative;
+   height: 60px;
+   
+}
+.login{
+    background-color: brown;
+    border-radius: 10% 10%;
+    color: aliceblue;
+}
+
+#log{
+    border-radius: 10% 10%;
+}
+.btn-secondary{
+    width: 100% !important;
+    float:right;
+}
+h1{
+    color:rgb(230, 91, 91);
+    font-size: 100px;
+    text-align: center;
+}
+.acc{
+    color:rgb(233, 218, 218);
+    font-size: 100px;
+    text-align: center;
+}
+.ac{
+   
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+}
+.b1{
+    background-color: brown;
+    color: aliceblue;
+    height: 40px;
+    width: 19.6%;
+    /*border-radius: 20% 10% ;*/
+    
+}
+.b1 :hover {
+    color:burlywood;
+}
+.cl{
+    color: azure;
+}
+.colore{
+    
+    width: 100%;
+    height: 60px;
+}
+.coler{
+    background-color: rgba(rgba(231, 17, 17, 0.925), green, blue, alpha);
+    height: 100%;
+    width: 100%;
+}
+h5{
+    color: rgb(253, 254, 255);
+    position: relative;
+    margin-left: 0%;
+    margin-top: -4%;
+    text-align: center;
+    
+}
+#sn{
+    margin-top: 0.8%;
+    margin-left: 6%;
+    height: 40px;
+    width: 60px;
+}
+#or{
+    margin-top: 0.8%;
+    margin-left: 1%;
+    height: 40px;
+    width: 60px;
+}
+#simp{
+    margin-top: 0.8%;
+    margin-left: 1%;
+    height: 40px;
+    width: 60px;
+}
+#sa{
+    margin-top: 0.8%;
+    margin-left: 1%;
+    height: 40px;
+    width: 60px;
+}
+#logoo{
+    height: 200px;
+    width: 200px;
+    position: relative;
+    margin-bottom: -15%;
+    margin-left: 25%;
+}
+#galsn{
+    width: 150px;
+    height: 150px;
+    margin-left: 2%;
+    margin-bottom: -48%;
+    position: relative;
+}
